@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "FOr FreeCodeCamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UdayParmar24/freecodecamp.git"
+  },
+  "author": "Uday Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UdayParmar24/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/UdayParmar24/freecodecamp#readme"
+}
